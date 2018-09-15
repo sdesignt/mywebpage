@@ -38,7 +38,14 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
     "versionPublish": "4.8.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://systemdesigning.xyz",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
