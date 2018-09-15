@@ -5,4 +5,10 @@
 	<url>
 		<loc>http://systemdesigning.xyz/page1.html</loc>
 	</url>
+	<url>
+		<loc>http://systemdesigning.xyz/page2.html</loc>
+	</url>
+	<url>
+		<loc>http://systemdesigning.xyz/page3.html</loc>
+	</url>
 </urlset>
